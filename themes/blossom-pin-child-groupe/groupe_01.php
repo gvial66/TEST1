@@ -24,4 +24,5 @@ echo '</div>';
 
 get_sidebar();			//Affiche la barre latérale
 get_footer(); 			//Affiche le pied de page
+//Nouvelle branche
 ?>
