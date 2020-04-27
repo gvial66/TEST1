@@ -5,6 +5,7 @@ Template Name: groupe_01
 ?>
 
 <?php
+// Je viens modifier ceci je sais pas si ça marche
 get_header();			//Affiche l’entête
 if (have_posts())		//teste s’il y a des posts (page, articles, …)
 {
